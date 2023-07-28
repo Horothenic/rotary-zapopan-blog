@@ -10,6 +10,7 @@
         {{ range .Site.Sections }}
             {{ range .Sections.ByWeight }}
                 {{ $stype := .Type}}
+                
                 {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
                           (and (eq $stype "recentwork") (.Site.Params.showRecentWorks))
                           (and (eq $stype "download") (.Site.Params.showDownloads))
