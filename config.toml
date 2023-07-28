@@ -1,8 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = ""
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
 theme = "hugo-initio"
-enableRobotsTXT = true
 
 [params]
     name = "Anthony Russel"
