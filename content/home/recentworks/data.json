@@ -1,101 +1,17 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "https://concepto.de/wp-content/uploads/2018/09/océano-e1537912445911-800x400.jpg",
-        "url": "post/",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "https://www.horothenic.com",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
+        "name": "Donaciones a comunidad Wixarica",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/La_visión_de_«Tatutsi_Xuweri_Timaiweme»_-_Arte_del_pueblo_wixárika.jpg/2560px-La_visión_de_«Tatutsi_Xuweri_Timaiweme»_-_Arte_del_pueblo_wixárika.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
+                "name": "Blog",
                 "url": "#"
             },
             {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Wordpress",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
-        "items": [
-            {
-                "name": "Web design",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
-                "url": "#"
+                "name": "Wiki",
+                "url": "https://es.wikipedia.org/wiki/Huichol"
             }
         ]
     }
