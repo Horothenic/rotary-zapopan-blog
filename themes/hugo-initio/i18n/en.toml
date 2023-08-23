@@ -1,22 +1,22 @@
 [home_services]
-    other = "Services"
+    other = "Servicios"
 
 [home_recentworks]
-    other = "Recent works"
+    other = "Trabajos recientes"
 
 [home_clients]
-    other = "Clients"
+    other = "Clientes"
 
 [404_title]
     other = "404"
 [404_description]
-    other = "Oops! This page doesn't exist!"
+    other = "¡Huy! Ésta página no existe"
 
 [footer_contact_title]
-    other = "Contact"
+    other = "Contacto"
 
 [footer_followme_title]
-    other = "Follow me"
+    other = "Síguenos"
 
 [footer_text_title]
     other = "Text widget"

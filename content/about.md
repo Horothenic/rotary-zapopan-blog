@@ -1,6 +1,6 @@
 +++
 menu = "main"
-title = "Acerca de"
+title = "Quienes somos"
 type = "about"
 weight = 10
 +++

@@ -1,17 +1,13 @@
 [
     {
         "id": 0,
-        "name": "Donaciones a comunidad Wixarica",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/La_visión_de_«Tatutsi_Xuweri_Timaiweme»_-_Arte_del_pueblo_wixárika.jpg/2560px-La_visión_de_«Tatutsi_Xuweri_Timaiweme»_-_Arte_del_pueblo_wixárika.jpg",
-        "url": "#",
+        "name": "Donación de lentes pregraduados para lectura",
+        "image": "/images/proyectos/reclusorio-femenil/18.jpg",
+        "url": "/post/donacion_lentes_graduados_2023_1/",
         "items": [
             {
                 "name": "Blog",
-                "url": "#"
-            },
-            {
-                "name": "Wiki",
-                "url": "https://es.wikipedia.org/wiki/Huichol"
+                "url": "/post/donacion_lentes_graduados_2023_1/"
             }
         ]
     }

@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Rotary Zapopan"
 theme = "hugo-initio"
 
 [params]
@@ -15,14 +15,14 @@ theme = "hugo-initio"
     background = ""
     banner = "images/bg.png"
     favicon = "images/rotary_favicon.png"
-    DateForm = "2 January 2006"
+    DateForm = "02 de enero de 2006"
     author = "Ivan Herrera"
 
     showSubheader = false
     showServices = true
     showRecentWorks = true
-    showDownloads = true
-    showClients = false
+    showDownloads = false
+    showClients = true
 
     showFooterContact = true
     showFooterFollowMe = true
