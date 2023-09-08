@@ -1,4 +1,5 @@
 +++
+date = "2023-07-17"
 title = "Recaudación de libros"
 +++
 
