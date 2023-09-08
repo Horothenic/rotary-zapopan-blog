@@ -5,14 +5,16 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+¡Bienvenidos al Club Rotario Zapopan!
 
-![about](../images/mac.jpg)
+Somos una comunidad de líderes comprometidos y apasionados por marcar la diferencia en la ciudad de Zapopan y más allá. Fundado en [año de fundación], nuestro Club Rotario ha florecido como un faro de servicio y amistad en esta hermosa región de México.
 
-### Necessitatibus
+![Rotary Zapopan](/images/rotary_club.jpg)
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+En el Club Rotario Zapopan, abrazamos los principios fundamentales del Rotary International: servicio, compañerismo, diversidad, integridad y liderazgo. Nuestra membresía es diversa, compuesta por individuos de diferentes profesiones, antecedentes y edades, pero compartimos un propósito común: hacer el bien en nuestras comunidades y en el mundo.
 
-### Fugit, laboriosam
+A lo largo de los años, hemos emprendido una variedad de proyectos y actividades de servicio que han dejado una huella perdurable en Zapopan. Desde programas educativos que apoyan a jóvenes talentosos hasta proyectos de salud que mejoran la calidad de vida de nuestra comunidad, estamos comprometidos en ser agentes de cambio positivo.
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+El Club Rotario Zapopan también se enorgullece de su rol en la campaña mundial de Rotary para la erradicación de la polio. Hemos contribuido de manera significativa a esta causa, acercándonos cada vez más al día en que el mundo estará libre de esta enfermedad devastadora.
+
+Te invitamos a explorar nuestra página y a unirte a nosotros en nuestra misión. Juntos, podemos lograr un impacto aún mayor y continuar construyendo un mundo mejor para todos. Únete al Club Rotario Zapopan y descubre cómo tu pasión por el servicio puede cambiar vidas.
