@@ -1,4 +1,7 @@
 {{ define "main" }}
+
+{{ $monthTranslations := dict "January" "Enero" "February" "Febrero" "March" "Marzo" "April" "Abril" "May" "Mayo" "June" "Junio" "July" "Julio" "August" "Agosto" "September" "Septiembre" "October" "Octubre" "November" "Noviembre" "December" "Diciembre" }}
+
 <main id="main">
 
 	<div class="container">
@@ -9,11 +12,11 @@
  				<article class="post">
 					<header class="entry-header">
  						<div class="entry-meta">
-               <span class="posted-on">
-                  <time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
-                    {{- .Date.Format "January 2, 2006" -}}
-                  </time>
-               </span>
+							<span class="posted-on">
+								<time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+									{{ .Date.Day }} de {{ index $monthTranslations .Date.Month.String }} de {{ .Date.Year }}
+								</time>
+							</span>																												
  						</div>
  						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>

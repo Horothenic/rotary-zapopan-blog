@@ -9,7 +9,7 @@ body {
   padding: 0;
 }
 .topspace {
-  margin-top: 40px;
+  margin-top: 15px;
 }
 /*********************************************************************
 
@@ -837,4 +837,25 @@ footer.entry-meta .meta-in {
    &:hover, &:focus {
       color: #004488;
    }
+}
+
+/*********************************************************************
+
+
+                                CUSTOM
+
+
+**********************************************************************/
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 3px solid #cccccc;
+}
+th, td {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.center-all-p-inside p {
+  text-align: center;
 }

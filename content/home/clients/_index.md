@@ -1,7 +1,6 @@
 +++
-title = "Clients"
+title = "Colaboradores"
 type = "client"
 weight = 4
-image = "images/sample_clients.png"
+image = "images/colaboradores_1.png"
 +++
-
