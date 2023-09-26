@@ -3,7 +3,7 @@ date = "2023-07-17"
 title = "Recaudación de libros"
 +++
 
-En el corazón de nuestra misión de servicio comunitario se encuentra un proyecto que enciende la pasión por la lectura y el aprendizaje: la recaudación de libros. Este proyecto refleja nuestro compromiso inquebrantable con la educación, la cultura y el acceso a la sabiduría contenida en las páginas de los libros. A través de la recaudación de libros, estamos construyendo puentes hacia un mundo de conocimiento y oportunidades.
+Recaudación de libros. Este proyecto refleja nuestro compromiso inquebrantable con la educación, la cultura y el acceso a la sabiduría contenida en las páginas de los libros. A través de la recaudación de libros, estamos construyendo puentes hacia un mundo de conocimiento y oportunidades.
 
 <!--more-->
 

@@ -3,7 +3,7 @@ date = "2023-07-17"
 title = "Baños Secos"
 +++
 
-En el corazón de nuestra dedicación al servicio comunitario se encuentra un proyecto que encarna la esencia de la ayuda humanitaria y la sostenibilidad: la construcción de baños secos en una comunidad huirrarica. Este proyecto refleja nuestro firme compromiso con la dignidad, la salud y la preservación del medio ambiente, y nos recuerda que el acceso básico a instalaciones sanitarias es un derecho humano fundamental.
+La construcción de baños secos en una comunidad huirrarica. Este proyecto refleja nuestro firme compromiso con la dignidad, la salud y la preservación del medio ambiente, y nos recuerda que el acceso básico a instalaciones sanitarias es un derecho humano fundamental.
 
 <!--more-->
 
