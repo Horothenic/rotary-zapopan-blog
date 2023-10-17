@@ -73,10 +73,10 @@ Se entregaron lentes con la graduación adecuada a cada beneficiado.
 
 ### Evidencias
 
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/1.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/2.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/3.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/4.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/5.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/6.jpg)
-![Rotary Zapopan](/images/proyectos/visita-americanos-2023-1/7.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/1.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/2.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/3.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/4.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/5.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/6.jpg)
+![Rotary Zapopan](/images/proyectos/visita-americanos-2023-A/7.jpg)
