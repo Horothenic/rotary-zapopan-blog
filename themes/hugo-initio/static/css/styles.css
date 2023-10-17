@@ -195,7 +195,6 @@ a:hover {
 }
 .lead {
   font-weight: 300;
-  font-size: 21px;
   font-size: 1.3125rem;
 }
 .text-msg {
@@ -527,7 +526,7 @@ img {
   overflow: hidden;
   margin: 0px 0 25px;
   text-align: center;
-  font-weight: 300;
+  font-weight: 3000;
   text-transform: uppercase;
   font-size: 36px;
   font-size: 2.25rem;
@@ -864,5 +863,18 @@ th, td {
   text-align: justify;
 }
 .read-more-button {
+  text-align: center !important;
+}
+.sublead {
+  font-weight: 250;
+  font-size: 1.15rem;
+  margin-bottom: 20px !important;
+}
+.header-button-text {
+  font-weight: 500;
+}
+.in-construction {
+  font-weight: 300;
+  font-size: 1.3125rem;
   text-align: center !important;
 }
