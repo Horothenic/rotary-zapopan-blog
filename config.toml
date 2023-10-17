@@ -18,16 +18,17 @@ theme = "hugo-initio"
     DateForm = "02 de enero de 2006"
     author = "Ivan Herrera"
 
-    showSubheader = false
-    showServices = true
+    showSubheader = true
+    showCurrentProjects = true
     showRecentWorks = true
     showDownloads = false
-    showClients = true
+    showColaborators = true
 
     showFooterContact = true
     showFooterFollowMe = true
     showFooterTextWidget = false
     showFooterFormWidget = false
+    showPartners = true
 
 [[menu.main]]
     name = "Inicio"

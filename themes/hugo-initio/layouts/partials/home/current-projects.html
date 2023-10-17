@@ -1,0 +1,9 @@
+<div class="row">
+  {{ range where .Data.Pages "Section" .Section }}
+  <div class="current-projects col-sm-6 col-md-3">
+    <h3 class="text-center">{{ .Title }}</h3>
+    {{ .Summary }}
+    <p class="text-center read-more-button"><a href="{{ .Permalink }}" class="btn btn-action">Leer más</a></p>
+  </div>
+  {{ end }}
+</div>
