@@ -1,6 +1,6 @@
 +++
 date = "2023-07-17"
-title = "Silla de ruedas PCI"
+title = "Sillas de ruedas PCI"
 +++
 
 Entrega de sillas de ruedas (PCI) para personas con discapacidad. Este proyecto es un testimonio de nuestro compromiso con la creación de un mundo donde todas las personas, independientemente de sus desafíos físicos, tengan la oportunidad de vivir una vida plena y participar en la sociedad de manera significativa.

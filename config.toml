@@ -18,7 +18,7 @@ theme = "hugo-initio"
     DateForm = "02 de enero de 2006"
     author = "Ivan Herrera"
 
-    showSubheader = false
+    showSubheader = true
     showServices = true
     showRecentWorks = true
     showDownloads = false

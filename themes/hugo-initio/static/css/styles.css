@@ -856,6 +856,13 @@ th, td {
   text-align: left;
   padding: 8px;
 }
-.center-all-p-inside p {
-  text-align: center;
+.current-projects h3 {
+  min-height: 50px;
+  max-height: 50px;
+}
+.current-projects p {
+  text-align: justify;
+}
+.read-more-button {
+  text-align: center !important;
 }
