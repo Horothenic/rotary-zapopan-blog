@@ -13,9 +13,11 @@
 					<header class="entry-header">
  						<div class="entry-meta">
 							<span class="posted-on">
-								<time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
-									{{ .Date.Day }} de {{ index $monthTranslations .Date.Month.String }} de {{ .Date.Year }}
-								</time>
+								{{ if not .Date.IsZero }}
+									<time class="entry-date published" datetime="{{ .Date.Format .Site.Params.DateForm }}">
+										{{ .Date.Day }} de {{ index $monthTranslations .Date.Month.String }} de {{ .Date.Year }}
+									</time>
+								{{ end }}
 							</span>																												
  						</div>
  						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>

@@ -3,8 +3,12 @@
         "id": 0,
         "name": "Entre lazos",
         "image": "/images/proyectos/entre-lazos/entre-lazos-bg.jpg",
-        "url": "https://facebook.com/EntrelazosAC",
+        "url": "/floating/info_entre_lazos/",
         "items": [
+            {
+                "name": "Información",
+                "url": "/floating/info_entre_lazos/"
+            },
             {
                 "name": "Facebook",
                 "url": "https://facebook.com/EntrelazosAC"
