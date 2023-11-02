@@ -1,5 +1,5 @@
 +++
-title = "Entre Lazos"
+title = "Entrelazos"
 
 +++
 
@@ -15,6 +15,6 @@ En Entrelazos les devolvemos a estas mujeres la esperanza perdida, la femeneidad
 
 Para lograr todo esto, trabajamos durante todo un año haciendo eventos, actividades y campañas de recaudación de fondos, pero sobretodo con la participación de benefactores, patrocinadores, donadores y padrinos que año con año nos apoyan.
 
- -- Ara Herrera
+ -- Suzzet de la Parra
 
 [Facebook](https://facebook.com/EntrelazosAC)
