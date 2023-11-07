@@ -43,9 +43,6 @@ theme = "hugo-initio"
     property = "123456789012345678901234"
     custom = true
 
-[params.google.analytics]
-    trackerID = "G-7ZVX5M8KBP"
-
 [[params.social]]
 	title = "facebook"
 	url = "https://www.facebook.com/RotarioZapopan"
