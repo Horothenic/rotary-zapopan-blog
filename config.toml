@@ -44,7 +44,7 @@ theme = "hugo-initio"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "G-7ZVX5M8KBP"
 
 [[params.social]]
 	title = "facebook"
